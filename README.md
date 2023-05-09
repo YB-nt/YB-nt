@@ -20,24 +20,10 @@ Here are some ideas to get you started:
 
 ## 🛠 Skill 
 
-  - python 
+*Python,SQL(SQLite,postgreSql,MongoDB)*
   
-### Crawling 
-
-  - RESTful-API
-  - Selenium 
-  - Scrapy 
-  - Beutifull-soup 
-  
-### Data-Handling 
-
-  - SQL(SQLite,postgreSql,MongoDB)
-  - Pandas
-
-### DashBorad 
-
-  - Heroku 
-  
-### Web-service
-
-  - Flask
+데이터 수집 : *RESTful-API ,Selenium ,Scrapy ,Beautifulsoup*
+데이터 분석: *pandas* ,numpy ,scipy ,scikit-learn
+웹 프레임워크 : Flask
+DL framework : Tensorflow
+ETC: Docker,Git
