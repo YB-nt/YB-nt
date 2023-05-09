@@ -19,16 +19,16 @@ Here are some ideas to get you started:
 ![YB-nt's GitHub stats](https://github-readme-stats.vercel.app/api?username=YB-nt&show_icons=true&theme=transparent)
 
 ## 🛠 Skill 
-- python 
-🛠 Crawling
+- python <br>
+🛠 Crawling <br>
 - RESTful-API
 - Selenium 
 - Scrapy 
-- Beutifull-soup
-🛠 Data-Handling
+- Beutifull-soup <br>
+🛠 Data-Handling <br>
 - SQL(SQLite,postgreSql,MongoDB)
-- Pandas
-🛠 DashBorad
-- Heroku
-🛠 Web-service 
+- Pandas<br>
+🛠 DashBorad <br>
+- Heroku <br>
+🛠 Web-service <br>
 - Flask
