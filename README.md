@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![YB-nt's GitHub stats](https://github-readme-stats.vercel.app/api?username=YB-nt&show_icons=true&theme=transparent)
+[![Job Scrap](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=transparent&repo=job_scraping)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/YB-nt/job_scraping))
