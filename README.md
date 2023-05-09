@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **YB-nt/YB-nt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#⚡Data Engineer 유영빈
+# ⚡Data Engineer 유영빈
+
+- ✨ 몰입을 지향!
+- 🤔 안되더라도 조금씩 천천히 목표를!
+- :eyes: 문제를 다양한 방식으로 접근하여 문제를 해결!
 
 ![YB-nt's GitHub stats](https://github-readme-stats.vercel.app/api?username=YB-nt&show_icons=true&theme=transparent)
 
@@ -27,3 +30,5 @@ Here are some ideas to get you started:
 웹 프레임워크 : Flask <br>
 DL framework : Tensorflow <br>
 ETC: Docker,Git <br>
+
+:sunglasses: 추가적으로 공부를 하고있는 것들 : Apache Airflow, Apache Spark, Docker, Kubernetes, Scala
