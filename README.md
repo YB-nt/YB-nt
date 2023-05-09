@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 <img src ="https://github.com/YB-nt/YB-nt/assets/74981759/1888c451-41b8-4e96-a6ff-aed576594bf8" width="5%" height="5%">
 -->
 
-<img src="https://img.shields.io/badge/python-#A566FF?style=flat-square&logo="https://github.com/YB-nt/YB-nt/assets/74981759/ad823eb9-c2a5-4fd1-b050-a517e949ee8f"&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-#A566FF?style=flat-square&logo="https://github.com/YB-nt/YB-nt/assets/74981759/ad823eb9-c2a5-4fd1-b050-a517e949ee8f"&logoColor=white">
