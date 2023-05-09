@@ -19,8 +19,11 @@ Here are some ideas to get you started:
 - 🤔 안되더라도 조금씩 천천히 목표를!
 - :eyes: 문제를 다양한 방식으로 접근하여 문제를 해결!
 <br>
+
 ## 🛠 Skill 
+
 <br>
+
 **Python,SQL(SQLite,postgreSql,MongoDB)** <br>
   
 - 데이터 수집 : **RESTful-API ,Selenium ,Scrapy ,Beautifulsoup** <br>
