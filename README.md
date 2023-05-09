@@ -35,3 +35,6 @@ Here are some ideas to get you started:
 ##### - Apache Airflow, Apache Spark, Docker, Kubernetes, Scala
 <br><br>
 ![YB-nt's GitHub stats](https://github-readme-stats.vercel.app/api?username=YB-nt&show_icons=true&theme=transparent)
+
+#### PROJECT
+[![Job_scrap](https://github-readme-stats.vercel.app/api/pin/?username=yb-nt&repo=Job_scrap)](https://github.com/YB-nt/Job_scrap)
