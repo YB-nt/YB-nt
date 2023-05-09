@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - :eyes: 문제를 다양한 방식으로 접근하여 문제를 해결!
 
 <br>
-### 🛠 Skills
+###  🛠 Skills
 
 <br>
 
