@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 ## 🛠 Skill 
 
-*Python,SQL(SQLite,postgreSql,MongoDB)*
+**Python,SQL(SQLite,postgreSql,MongoDB)** <br>
   
-데이터 수집 : *RESTful-API ,Selenium ,Scrapy ,Beautifulsoup*
-데이터 분석: *pandas* ,numpy ,scipy ,scikit-learn
-웹 프레임워크 : Flask
-DL framework : Tensorflow
-ETC: Docker,Git
+데이터 수집 : **RESTful-API ,Selenium ,Scrapy ,Beautifulsoup** <br>
+데이터 분석: **pandas** ,numpy ,scipy ,scikit-learn <br>
+웹 프레임워크 : Flask <br>
+DL framework : Tensorflow <br>
+ETC: Docker,Git <br>
