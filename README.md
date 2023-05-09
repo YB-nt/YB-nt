@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 
 #### 😎 추가적으로 공부를 하고있는 것들 :<br> 
 ##### - Apache Airflow, Apache Spark, Docker, Kubernetes, Scala
-<br>
-![YB-nt's GitHub stats](https://github-readme-stats.vercel.app/api?username=YB-nt&theme=transparent&show_icons=true&theme=transparent)
+<br><br>
+![YB-nt's GitHub stats](https://github-readme-stats.vercel.app/api?username=YB-nt&show_icons=true&theme=transparent)
