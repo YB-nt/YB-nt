@@ -35,4 +35,7 @@ Here are some ideas to get you started:
 ##### - Apache Airflow, Apache Spark, Docker, Kubernetes, Scala, fastapi
 ###### - [LINK] : https://github.com/YB-nt/study-now
 <br><br>
+
+<!--
 ![YB-nt's GitHub stats](https://github-readme-stats.vercel.app/api?username=YB-nt&show_icons=true&theme=transparent)
+-->
