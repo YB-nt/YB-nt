@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+
+![Top Langs](./profile/top-langs.svg)
+
+
+
+
 <!--
 **YB-nt/YB-nt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
